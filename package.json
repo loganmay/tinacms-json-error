@@ -10,8 +10,11 @@
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
     "next": "latest",
+    "next-tinacms-json": "^0.34.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.2.1",
+    "tinacms": "^0.34.0"
   },
   "license": "MIT"
 }
